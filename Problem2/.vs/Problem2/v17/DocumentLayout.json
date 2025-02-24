@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Problem-2\\Problem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DB25500-808E-4522-9C95-6C171A2B7ACE}|Problem2\\Problem2.csproj|c:\\users\\dimit\\onedrive\\documents\\github\\problem-2\\problem2\\problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DB25500-808E-4522-9C95-6C171A2B7ACE}|Problem2\\Problem2.csproj|solutionrelative:problem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Problem-2\\Problem2\\Problem2\\Program.cs",
+              "RelativeDocumentMoniker": "Problem2\\Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\OneDrive\\Documents\\GitHub\\Problem-2\\Problem2\\Problem2\\Program.cs",
+              "RelativeToolTip": "Problem2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:55:52.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
