@@ -14,8 +14,8 @@ Fix: Changed the recursive call from GetTxtFiles(directoryPath, txtFiles); to Ge
 
 - **Error**: The code did not handle potential errors like UnauthorizedAccessException (e.g., when trying to access protected directories) or general exceptions, which could cause the program to crash.
 - **Fix**: Added try-catch blocks to handle specific exceptions:
-- - UnauthorizedAccessException: Skipped directories with insufficient permissions.
-- - Generic Exception: Displayed an error message if there were issues accessing a directory or file.
+  - UnauthorizedAccessException: Skipped directories with insufficient permissions.
+  - Generic Exception: Displayed an error message if there were issues accessing a directory or file.
 
 ## Missing Console Feedback for File Writing Success or Failure:
 
